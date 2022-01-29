@@ -102,5 +102,17 @@ const projects = [
     features: ["DatePicker", "Search bar", "Explore Nearby"],
     techused: ["Material UI", "Reactjs", "React redux"],
   },
+  {
+    url: "https://gainimpactchatapp.netlify.app/",
+    title: "One to One Chat App called Gain Impact Chat",
+    desc: "A fully functional Chat App having following features",
+    features: [
+      "User Authantication",
+      "Real Time Chat",
+      "User's Last Activity",
+      "Timestamp",
+    ],
+    techused: ["MongoDB", "Reactjs", "Context Api", "Nodejs", "GraphQL"],
+  },
 ];
 module.exports = projects;
