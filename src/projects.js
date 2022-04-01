@@ -114,5 +114,16 @@ const projects = [
     ],
     techused: ["MongoDB", "Reactjs", "Context Api", "Nodejs", "GraphQL"],
   },
+  {
+    url: "https://billionaireclubbyshamail.netlify.app/",
+    title: "NFT Minting Site UI",
+    desc: "NFT Minting Site UI",
+    features: [
+      "NFT Minting",
+      "NFT Listing",
+      
+    ],
+    techused: ["Reactjs", "CSS"],
+  },
 ];
 module.exports = projects;
