@@ -104,7 +104,7 @@ const projects = [
   },
   {
     url: "https://gainimpactchatapp.netlify.app/",
-    title: "One to One Chat App called Gain Impact Chat",
+    title: "One to One Chat App",
     desc: "A fully functional Chat App having following features",
     features: [
       "User Authantication",
