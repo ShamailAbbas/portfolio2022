@@ -97,10 +97,10 @@ const projects = [
   },
   {
     url: "https://airbnbclonebyshamail.netlify.app/",
-    title: ".....AirBnb Clone.....",
+    title: "AirBnb Clone         ",
     desc: "A Frontend Clone with following features",
-    features: ["DatePicker", "Search bar", "Explore Nearby"],
-    techused: ["Material UI", "Reactjs", "React redux"],
+    features: ["DatePicker", "Search bar", "Explore Nearby","   ","   " ,"  "],
+    techused: ["Material UI", "Reactjs", "React redux", "   ", "   " ,"   "],
   },
   {
     url: "https://gainimpactchatapp.netlify.app/",
@@ -116,14 +116,18 @@ const projects = [
   },
   {
     url: "https://billionaireclubbyshamail.netlify.app/",
-    title: "NFT Minting Site UI",
-    desc: "NFT Minting Site UI",
+    title: "NFT Minting Site UI       ",
+    desc: "NFT Minting Site UI        ",
     features: [
       "NFT Minting",
       "NFT Listing",
-      
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
     ],
-    techused: ["Reactjs", "CSS"],
+    techused: ["Reactjs", "CSS","     ", "       ", "      ", "    "],
   },
 ];
 module.exports = projects;
